@@ -1,0 +1,4 @@
+2020-01-14 21:33:01,092 - root - INFO - running environment: development
+2020-01-14 21:33:17,476 - root - INFO - running environment: development
+2020-01-14 21:33:17,815 - root - INFO - running environment: development
+2020-01-14 21:33:29,736 - root - ERROR - 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
